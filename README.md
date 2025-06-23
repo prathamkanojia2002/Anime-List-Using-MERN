@@ -1,3 +1,8 @@
+##FRONT END 
+![frontendimage](https://github.com/user-attachments/assets/9e1cdfb6-dc3b-4c37-a833-98bf65d77fee)
+
+![frontendimage2](https://github.com/user-attachments/assets/d13c4ddd-e55a-472b-9f1b-63f69161d40b)
+
 
 ## this is a friendly personal project to learn mern stack CRUD operation
 ### easy to make and more easy to understand  
