@@ -30,3 +30,8 @@ for backend
 ## important commands 
 1. npm init -y
 2. npm install express mongoose dotenv
+
+##start the server using these commands 
+for ease of use install nodemon easy line to start server 
+npm run dev 
+just add a nodemon script to your json packages 
